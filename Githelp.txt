@@ -1,0 +1,4 @@
+Для регистрации данных
+
+1) git config --global user.name "your_username"
+2) git config --global user.email "your_username@gmai.com"
